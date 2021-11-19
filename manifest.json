@@ -1,0 +1,14 @@
+{
+
+    "manifest_version" : 3,
+    "version": "1.1",
+    "name": "Url Collector",
+    "action": {
+        "default_popup":"saveurl.html",
+        "defaul_icon":"hole.png"
+    },
+   
+    "permissions": [
+        "tabs"
+    ]
+}
